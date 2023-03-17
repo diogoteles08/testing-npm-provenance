@@ -1,0 +1,24 @@
+{
+  "name": "diogo-testing-npm-provenance",
+  "version": "1.0.0",
+  "description": "A package created only for testing the process of publishing to npm with a provenance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogoteles08/testing-npm-provenance.git"
+  },
+  "keywords": [
+    "npm",
+    "provenance",
+    "test"
+  ],
+  "author": "Diogo Teles Sant Anna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogoteles08/testing-npm-provenance/issues"
+  },
+  "homepage": "https://github.com/diogoteles08/testing-npm-provenance#readme"
+}
