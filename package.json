@@ -1,6 +1,6 @@
 {
   "name": "diogo-testing-npm-provenance",
-  "version": "1.1.1",
+  "version": "3.0.0",
   "description": "A package created only for testing the process of publishing to npm with a provenance",
   "main": "index.js",
   "scripts": {
